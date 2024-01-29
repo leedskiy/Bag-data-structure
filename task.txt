@@ -1,0 +1,6 @@
+Implement the bag type for integers. Represent the bag as a sequence of (element, frequency) pairs. Implement as methods: 
+1.	inserting an element
+2.	removing an element
+3.	returning the frequency of an element
+4.	returning the number of elements which occur only once in the bag
+5.	printing the bag
